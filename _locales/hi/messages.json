@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Hill Climb Racing",
+    "description": "Extension name"
+  },
+  "appNotSupported": {
+    "message": "यह ऐप्स  आपके उपकरण के साथ असंगत है.",
+    "description": "Message displayed when the app is not supported."
+  }
+}
